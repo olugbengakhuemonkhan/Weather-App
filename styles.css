@@ -1,0 +1,32 @@
+/* body{
+    background-color: blue
+}  */
+body {
+    background-image: url("./IMG_6909.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Raleway', sans-serif;
+    color: white
+  }
+/*label {
+    
+    color: #dc6c22;
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+.buttonCenterClass{
+    display: flex;
+    /*flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin-top: 5%;
+    transform: translateX(-50%);
+    color: #fdfeff;
+
+}*/
